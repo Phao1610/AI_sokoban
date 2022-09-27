@@ -1,0 +1,3 @@
+[Sequence Action ucs]['U', 'U', 'd', 'd', 'r', 'r', 'r', 'U', 'U'], 
+9 
+[Time action ucs] 0.012578964233398438,

@@ -1,0 +1,3 @@
+[Sequence Action bfs]['U', 'U', 'd', 'd', 'r', 'r', 'r', 'U', 'U'], 
+9 
+[Time action bfs] 0.010822534561157227,
